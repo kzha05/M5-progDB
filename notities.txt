@@ -1,0 +1,14 @@
+create
+alter
+	grants user permission to alter the table 	definitions
+lock tables
+show view
+
+
+-
+
+
+straat: Hullenbergweg VARCHAR
+nummer: 2 INT
+postcode: 1101 BL VARCHAR
+plaats: Amsterdam VARCHAR
