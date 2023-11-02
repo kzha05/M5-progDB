@@ -1,5 +1,0 @@
-create
-alter
-	grants user permission to alter the table 	definitions
-lock tables
-show view
